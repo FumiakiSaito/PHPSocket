@@ -1,12 +1,12 @@
-###Usage
+### Usage
 
-####Server
+#### Server
 ```
 $ php server.php
 ```
 待ち状態となり、クライアントからのメッセージが表示されていく
 
-####Client
+#### Client
 client.php
 ```
 $ php client.php
